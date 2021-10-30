@@ -87,7 +87,7 @@ Consist of feedback form with user input of Full name, email and mobile contact 
 
 - https://graceobaellyone.github.io/momigness/#contact-section
  
-In addition, in future I plans to work more on the Gallery Wall to include link that will illustrate what the picture for.
+In addition, in future I plans to work more on the Gallery Wall to include link that will describe what the picture for.
 
 ### Features Left to Implement
 I was unable to include the following in my project however this will be reviewed in the future development
