@@ -3,6 +3,7 @@
 
 ![alt text](Images/mockup.jpeg "Responsive Image") 
 
+
 ## Users Stories:
 MomiiGness is a young lady with profound-hearing-loss who contracted meningitis at age 2 as result she lost her hearing and part of her vision to visual dyslexia and other psychological need has she is growing up.
 Her ways of commnication is in British Sign languages[BSL].
@@ -111,8 +112,11 @@ https://www.w3schools.com/tags/ref_colornames.asp
 •	HTML /CSS code validator – It was used to validate my code and to detect errors
 https://validator.w3.org/nu/#textarea
 
-
-
+# Wireframe
+                 
+![alt text](Images/wireframe.png "Responsive Image") 
+                 
+                 
 ## Testing
 [file:///C:/Users/admin/Documents/mGXpo%20V1.0a.pdf]
 In this section, I was able to test the functionality of the momiiGness Expo! Project  
