@@ -38,10 +38,10 @@ As a user type, reflecting on the momiiGness Expo! Web development using HTML/CS
 •	LiveWell
 •	ContactMe 
 Without any glitch or irresponsive pages I was able to deriving a code that links all pages for a responsive UX pages. For example
- <div class="col-md3"><a href="https://graceobaellyone.github.io/momigness/#about-section" target="_Next">About Me</a></div>
-                                <div class="col-md 3"><a href="https://graceobaellyone.github.io/momigness/#gallery-section" target="_Next">Gallery Wall</a></div>
-                            <div class="col-md-3"><a href="https://graceobaellyone.github.io/momigness/#live-section" target="_Next">Live Well</a></div>
-                        <div class="col-md-3"><a href="https://graceobaellyone.github.io/momigness/#contact-section" target="_Next">Contact Me</a></div>
+ <div class="col-md3"><a href="https://graceobaellyone.github.io/momigness/#about-section" target="_blank">About Me</a></div>
+                                <div class="col-md 3"><a href="https://graceobaellyone.github.io/momigness/#gallery-section" target="_blank">Gallery Wall</a></div>
+                            <div class="col-md-3"><a href="https://graceobaellyone.github.io/momigness/#live-section" target="_blank">Live Well</a></div>
+                        <div class="col-md-3"><a href="https://graceobaellyone.github.io/momigness/#contact-section" target="_blank">Contact Me</a></div>
                     <div class="row justify-content-end mb-5">
 
 Also, the Navigating Menu such as Home , about , gallery, livewell and contact  is another feature on the page which I derived a code that will allow user to be able to navigate the pages to the net page or the previous page without the need to good to the the home page menu. 
