@@ -67,25 +67,25 @@ The homepage consist of
 o	Greatness.jpg 
 o	Welcome.jpg
 o	Link Menu for AboutMe, GalleryWall, 
-https://8000-d9919ff5-1f2e-4541-9bf2-34e5a6bf0343.ws-eu01.gitpod.io/
+https://graceobaellyone.github.io/momigness/#about-section
 •	AboutMe
 
 Consist of user story of the owner. In order to go to the next page click next button
-https://8000-d9919ff5-1f2e-4541-9bf2-34e5a6bf0343.ws-eu01.gitpod.io/AboutMe.html
+https://graceobaellyone.github.io/momigness/#about-section
 
 •	GalleryWall
 This consist of owner artwork display on the gallery Wall
-https://8000-d9919ff5-1f2e-4541-9bf2-34e5a6bf0343.ws-eu01.gitpod.io/GalleryWall.html
+https://graceobaellyone.github.io/momigness/#gallery-section
 
 •	LiveWell
 LiveWell page consist of JuicePlus+ image. When user click on the image or the JuicePlus+ link it will be linked with an external website of the owner’s health product. Clicking on the Next button will take the user to the “ContactMe” page however if the user want more information on the prior page “AboutMe” page the ‘Previous’ button will take the user back.
 
-https://8000-d9919ff5-1f2e-4541-9bf2-34e5a6bf0343.ws-eu01.gitpod.io/LiveWell.html
+https://graceobaellyone.github.io/momigness/#live-section
 
 •	ContactMe 
 Consist of feedback form with user input of Full name, email and mobile contact can be found.  When user date input had being completed the submit button will be clicked to submit the for the proceed back yo the home page.
 
-- https://8000-d9919ff5-1f2e-4541-9bf2-34e5a6bf0343.ws-eu01.gitpod.io/Contact.html
+- https://graceobaellyone.github.io/momigness/#contact-section
  
 In addition, in future I plans to work more on the Gallery Wall to include link that will illustrate what the picture for.
 
