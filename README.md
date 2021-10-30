@@ -1,5 +1,5 @@
 ## Project Title: 
-MomiiGness Expo!
+# MomiiGness Expo!
 
 ![alt text](Images/mockup.jpeg "Responsive Image") 
 
