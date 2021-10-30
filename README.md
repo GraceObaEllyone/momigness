@@ -1,6 +1,8 @@
 ## Project Title: 
 MomiiGness Expo!
 
+![alt text](Images/mockup.jpeg "Responsive Image") 
+
 ## Users Stories:
 MomiiGness is a young lady with profound-hearing-loss who contracted meningitis at age 2 as result she lost her hearing and part of her vision to visual dyslexia and other psychological need has she is growing up.
 Her ways of commnication is in British Sign languages[BSL].
