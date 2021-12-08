@@ -1,7 +1,7 @@
 ## Project Title: MomiiGness Expo!
 
 
-![alt text](Images/mockup.jpeg "Responsive Image") 
+![alt text](images/mockup.jpeg "Responsive Image") 
 
 
 ## Users Stories:
@@ -114,7 +114,7 @@ https://validator.w3.org/nu/#textarea
 
 # Wireframe
                  
-![alt text](Images/wireframe.png "Responsive Image") 
+![alt text](images/wireframe.png "Responsive Image") 
                  
                  
 ## Testing
