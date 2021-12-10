@@ -92,10 +92,7 @@ In addition, in future I plans to work more on the Gallery Wall to include link 
 ### Features Left to Implement
 I was unable to include the following in my project however this will be reviewed in the future development
 •	Blog missing 
-•	Footnote for social media link
 •	A video column for British Sign Language
-
-### Technologies Used
 
 •	## Technologies Used
 
