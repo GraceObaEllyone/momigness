@@ -148,7 +148,19 @@ According to
  https://softwareengineering.stackexchange.com/questions/344184/what-is-the-difference-between-software-deployment-and-software-release.
 
 Deployment refers to getting program to a running state on a server, however it doesn't need to be the production server. One can  deploy released code, or code that is not  ready for release. In web development, it is common to deploy code to a test environment before testing it. Therefore in order to deploy my repo to github, the following steps were followed
+-This project was developed in Visual Studio Code editor. All developments were pushed to the corresponding repository in GitHub account.
 
+In order to deploy the website to GitHub pages, I:
+
+- Selected the Repository from the GitHub Dashboard.
+
+- Navigated to "Settings" then "GitHub Pages".
+
+- Selected "master branch" in Source section.
+
+- Page auto refreshed and link generated under GitHub Pages section:
+
+  👉 Your site is published at https://graceobaellyone.github.io/momigness/
 ## Credits
 
 
@@ -156,6 +168,14 @@ Deployment refers to getting program to a running state on a server, however it 
 ### Media
 - The photos used in this site were obtained from my laptop
 
-### Acknowledgements
+### Acknowledgments:
 
+- <a href="https://codeinstitute.net/" rel="noopener" target="_blank">Code Institute</a>
+- <a href="https://stackoverflow.com/" rel="noopener" target="_blank">Stack Overflow</a>
+- Code Institute Slack Community.
+- My mentor Guido Cecilio for guidance and support.
+- My friends for their patience and honest critique throughout.
 - I received inspiration for this project from my Daughter Greatness Olorunmomi who had at a younger age when through childhood sickness that left her profoundly deaf and additional need
+<div align="center"><p style="text-align: center"><a href="#top">Back to top ⬆️</a></p></div>
+
+
