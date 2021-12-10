@@ -106,3 +106,9 @@ $(function() {
 function messageshow() {
     alert("Submited Sucessfully");
 }
+
+
+
+function reset() {
+    document.getElementById("contactForm").reset();
+}
