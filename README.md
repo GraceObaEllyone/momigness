@@ -115,7 +115,6 @@ https://validator.w3.org/nu/#textarea
                  
                  
 ## Testing
-[file:///C:/Users/admin/Documents/mGXpo%20V1.0a.pdf]
 In this section, I was able to test the functionality of the momiiGness Expo! Project  
 manually by varying the code to actualise UX response to each page, as a result, I was able to derive some the following 
 •	Test Plan – With Project name momiiGness Expo! I was able to create 
