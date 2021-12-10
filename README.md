@@ -73,9 +73,9 @@ https://graceobaellyone.github.io/momigness/#about-section
 Consist of user story of the owner. In order to go to the next page click next button
 https://graceobaellyone.github.io/momigness/#about-section
 
-•	GalleryWall
+•	My Skills
 This consist of owner artwork display on the gallery Wall
-https://graceobaellyone.github.io/momigness/#gallery-section
+https://graceobaellyone.github.io/momigness/#skills-section
 
 •	LiveWell
 LiveWell page consist of JuicePlus+ image. When user click on the image or the JuicePlus+ link it will be linked with an external website of the owner’s health product. Clicking on the Next button will take the user to the “ContactMe” page however if the user want more information on the prior page “AboutMe” page the ‘Previous’ button will take the user back.
