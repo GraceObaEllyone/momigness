@@ -39,7 +39,7 @@ As a user type, reflecting on the momiiGness Expo! Web development using HTML/CS
 •	ContactMe 
 Without any glitch or irresponsive pages I was able to deriving a code that links all pages for a responsive UX pages. For example
  <div class="col-md3"><a href="https://graceobaellyone.github.io/momigness/#about-section" target="_blank">About Me</a></div>
-                                <div class="col-md 3"><a href="https://graceobaellyone.github.io/momigness/#skills-section" target="_blank">Gallery Wall</a></div>
+                                <div class="col-md 3"><a href="https://graceobaellyone.github.io/momigness/#skills-section" target="_blank">My Skills</a></div>
                             <div class="col-md-3"><a href="https://graceobaellyone.github.io/momigness/#live-section" target="_blank">Live Well</a></div>
                         <div class="col-md-3"><a href="https://graceobaellyone.github.io/momigness/#contact-section" target="_blank">Contact Me</a></div>
                     <div class="row justify-content-end mb-5">
